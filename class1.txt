@@ -1,0 +1,4 @@
+this is a file named as class1.txt for practicing git
+mkdir git-repoA
+cd git-repoA
+
